@@ -1,1 +1,0 @@
-# namste-frontend-system-design
